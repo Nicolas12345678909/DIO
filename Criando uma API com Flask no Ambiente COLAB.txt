@@ -1,0 +1,21 @@
+Links dos Projetos feitos em aula. 
+
+Primeiros passos com o Google Colab:
+https://colab.research.google.com/drive/1GOJov6CTHPi2KKiSYnNJLYTrhUf0RzSs
+
+
+Instalando e utilizando Django no Google Colab:
+https://colab.research.google.com/drive/1eJLK11jRcHJdVB0-K0eHxgI73NdFxyW3
+
+
+Integração da biblioteca FastAPI com Flask na Plataforma Colab:
+https://colab.research.google.com/drive/1LdczuS0VO8bEQBxkc4F31Ow1GSp6_Uyj
+
+
+Projeto API Flask no Google Colab: Integrando um arquivo JSON para um servidor FastAPI:
+https://colab.research.google.com/drive/1g2hsz6uy753AJlSORImhYu_stt69twsP
+
+
+colab.research.google.com/drive/1g2hsz6uy753AJISORImhYu_stt69twsP#scrollTo=4tFgZzp--mUA
+
+Entendendo o Desafio
